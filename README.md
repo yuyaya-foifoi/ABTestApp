@@ -1,5 +1,5 @@
 # ABTestApp
-App made by streamlit
+App made mainly by streamlit, pymc3
 
 # To run
 ```bash
