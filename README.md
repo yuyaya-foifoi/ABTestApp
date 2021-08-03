@@ -11,19 +11,20 @@ streamlit run main.py
   <img width="600" height=300" src="https://user-images.githubusercontent.com/40622501/127851665-7b38385e-0a60-4a2d-95f7-0a3f5b64ad22.png">
 </p>
 
-# Sample Image                                                                                                                                      
-### The Home page randomly displays a map, buttons, and text at random                                      
+# Sample Image                                                                                                                                       
+### In the Home page, a UI will be randomly created, which consisting of a map, buttons, and text. Design of each component will be randomly selected.
 <p align="center">
   <img width="600" height=400" src="https://user-images.githubusercontent.com/40622501/127850671-31efb205-9d1b-4aeb-8a5b-0c41b4446d04.png">
 </p>
 
 # Equation
+### Equation of the statistical model used in this app.
 <p align="center">
   <img width="600" height=400" src="https://user-images.githubusercontent.com/40622501/127850596-15f0a101-fc97-49e3-abbb-c5a86072167b.png">
 </p>
 
 # Output
-### If user chose Modeling page, PYMC3 will measure the effectiveness of each measure based on the number of clicks.
+### In the Modeling page, you can check the representative summary statistics of the samples obtained by MCMC (Markov Chain Monte Carlo).
 <p align="center">
   <img width="600" height=400" src="https://user-images.githubusercontent.com/40622501/127850701-9f469a2c-ac94-43f7-961e-4e082455b67a.png">
 </p>
